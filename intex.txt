@@ -1,0 +1,5 @@
+mkdir
+touch
+cd nama_folder (tab)
+cd .. (untuk mundur)
+ls
